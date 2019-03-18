@@ -1,10 +1,14 @@
-<?php
+<?xml version="1.0"?>
+<!--
 /**
-* Copyright © 2019 All rights reserved.
-* See COPYING.txt for license details.
-*/
-\Magento\Framework\Component\ComponentRegistrar::register(
-    \Magento\Framework\Component\ComponentRegistrar::THEME,
-    'frontend/Rvs/sharwood',
-    __DIR__
-);
+ * Copyright © 2016 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/theme.xsd">
+<title>Sharwood Fabrics</title>
+<parent>Magento/luma</parent>
+<!--<media>
+<preview_image>media/preview.jpg</preview_image>
+</media>-->
+</theme>
