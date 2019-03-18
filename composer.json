@@ -4,11 +4,6 @@
    "require":{
       "magento/theme-frontend-blank":">=100.0.0"
    },
-   "config":{
-      "github-oauth":{
-         "github.com":"e2ed5b2b6d52ed8fdf1bc77aa4003c978814ae4c"
-      }
-   },
    "type":"magento2-theme",
    "version":"1.0.0",
    "license":[
